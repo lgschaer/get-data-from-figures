@@ -30,11 +30,11 @@ Figure 5:
 
 ## Step 2: Extract data in R using the get_data_from_figures.R script
 
-Load R packages and run the following code to get started
+### Load R packages and run the following code to get started
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/66341682-3a03-4620-86c6-10692e2db43a)
 
-Follow along with the interactive prompts and enter responses. In this case, we want to process new images (enter 1), process different types of plots (enter d), and the plot is a boxplot (b). You will also be asked what the Y variable is.
+### Follow along with the interactive prompts and enter responses. In this case, we want to process new images (enter 1), process different types of plots (enter d), and the plot is a boxplot (b). You will also be asked what the Y variable is.
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/45c052b8-1dd6-45b0-8e5d-e12fd05836f5)
 
@@ -44,56 +44,58 @@ Follow along with the interactive prompts and enter responses. In this case, we 
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/a8525c76-6afe-4ab3-94e1-9ee20076f5f8)
 
-The figure will show up in the plot panel and you will be asked to click on the y-axis 
+### The figure will show up in the plot panel and you will be asked to click on the y-axis 
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/49ffcc22-adcb-47c7-bcb5-f7455b2b3b38)
 
-You will be prompted to enter the highest and lowest values on the y-axis, and the calibration will appear on the figure in the plot viewer.
+### You will be prompted to enter the highest and lowest values on the y-axis, and the calibration will appear on the figure in the plot viewer.
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/fa440f80-6018-4ae7-b11a-95430d912c8a)
 
-Answer final questions:
+### Answer final questions:
 
-If any errors were made calibrating the axis, you have the option to re-calibrate.
+### If any errors were made calibrating the axis, you have the option to re-calibrate.
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/60b045cf-b892-4d4f-bcda-b425e983e251)
 
-Enter whether sample sizes are known
+### Enter whether sample sizes are known
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/cf25e596-0c83-40db-bbc0-44cf3eb7e46e)
 
-Enter the name of the first group, in this case it's EB2_Mackinac
+### Enter the name of the first group, in this case it's EB2_Mackinac
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/d179a75f-442f-414a-bec3-19837a832326)
 
-If sample size is known, you'll be asked to enter it here.
-Next you'll be prompted to click on the maximum, upper quartile, median, lower quartile, and minimum values in order. 
+### If sample size is known, you'll be asked to enter it here.
+### Next you'll be prompted to click on the maximum, upper quartile, median, lower quartile, and minimum values in order. 
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/5c85c0f2-25ed-4093-b652-ae30fbea68f7)
 
-This will show up on the figure after it is complete
+### This will show up on the figure after it is complete
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/aad0970d-df13-4d75-b076-1cafdda7e212)
 
-Then you will have the option to edit, delete group, or finish the plot. 
+### Then you will have the option to edit, delete group, or finish the plot. 
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/e6a810c3-a3f8-4813-8494-0961cdcd688b)
 
-When all groups are finished, the plot will look like this:
+### When all groups are finished, the plot will look like this:
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/568bd725-d374-4df5-a83d-e1b9950b22b7)
 
-Now you can finish the plot
+### Now you can finish the plot
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/42f0c9d3-f4a4-4ef2-b2df-026db345a269)
 
-The console will ask if you would like to continue. As you go, data will be saved to the "data" object in R (or whatever object you specify in the R script).
+### The console will ask if you would like to continue. As you go, data will be saved to the "data" object in R (or whatever object you specify in the R script).
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/3644fb30-a55f-495d-b27f-d6c1d1876a55)
 
+### The next example plot is a scatterplot, so enter "s"
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/a957fe29-48e5-455f-9d86-18e290c3ed6b)
 
+### You will be prompted to click on both x and y axes
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/6ab1a2dc-5c8f-4330-a140-1e4c8f9e29ad)
 
