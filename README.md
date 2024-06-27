@@ -106,12 +106,7 @@ Figure 5:
 
 The data in your sheet will look different depending on how you group the data. One option is to click all the points in a single color grouping as shown in the screenshot below (clicked points are shown with red dots). This will give a mean value for time and a mean value for Absorbance at 600nm.
 
-![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/96145464-8069-4a45-a396-71a1288dbb61)
-
 If you prefer to capture the time dynamics of this figure, you will need to click on each time point individually, shown below in the green points.
-
-![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/c05e4dba-0315-4800-9ef0-69a17f228355)
-
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/8bc757d8-b2be-4374-9012-5a5d6e7c1f28)
 
