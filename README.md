@@ -54,15 +54,19 @@ You will be prompted to enter the highest and lowest values on the y-axis, and t
 
 Answer final questions:
 
+If any errors were made calibrating the axis, you have the option to re-calibrate.
+
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/60b045cf-b892-4d4f-bcda-b425e983e251)
 
-If any errors were made calibrating the axis, you have the option to re-calibrate.
+Enter whether sample sizes are known
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/cf25e596-0c83-40db-bbc0-44cf3eb7e46e)
 
+Enter the name of the first group, in this case it's EB2_Mackinac
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/d179a75f-442f-414a-bec3-19837a832326)
 
+If sample size is known, you'll be asked to enter it here:
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/5c85c0f2-25ed-4093-b652-ae30fbea68f7)
 
