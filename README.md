@@ -4,9 +4,11 @@ Workflow for using the R package metaDigitise to scrape raw data from figures
 
 Using Figure 1A and Figure 5 from this paper as examples: https://academic.oup.com/jimb/article/50/1/kuad008/7120041
 
-![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/9519b8ed-8b48-431b-a08d-db6c968d73e0)
+Figure 1A:
+![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/7000b08f-3680-4cc5-b5f4-ab017e12fe35)
 
-![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/61623c4e-fe15-4dfa-9c61-88878c9f9e71)
+Figure 5: 
+![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/4c588434-0982-4cd7-ad70-cfa28dfcefc7)
 
 Step 1: Use powerpoint to crop and prepare figures and save each slide as a single png file – one figure panel per file (helps to change slides to square dimensions)
 Make a slide for each panel data will need to be collected from.
