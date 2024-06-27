@@ -2,7 +2,7 @@
 
 ## Workflow for using the R package metaDigitise to scrape raw data from figures
 
-Using Figure 1A and Figure 5 from this paper as examples: https://academic.oup.com/jimb/article/50/1/kuad008/7120041
+Using Figure 1A and Figure 5 from Schaerer et al 2023 (Journal of Industrial Microbiology & Biotechnology) as examples: https://academic.oup.com/jimb/article/50/1/kuad008/7120041
 
 Figure 1A:
 
@@ -75,7 +75,7 @@ Figure 5:
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/aad0970d-df13-4d75-b076-1cafdda7e212)
 
-### Then you will have the option to edit, delete group, or finish the plot. 
+### Then you will have the option to add another group, edit an existing group, delete group, or finish the plot. 
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/e6a810c3-a3f8-4813-8494-0961cdcd688b)
 
