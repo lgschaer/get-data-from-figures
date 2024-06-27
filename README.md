@@ -46,17 +46,17 @@ Follow along with the interactive prompts and enter responses. In this case, we 
 
 The figure will show up in the plot panel and you will be asked to click on the y-axis 
 
-![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/3151a3bf-5880-4d46-a368-658cd7d90382)
-
-
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/49ffcc22-adcb-47c7-bcb5-f7455b2b3b38)
 
+You will be prompted to enter the highest and lowest values on the y-axis, and the calibration will appear on the figure in the plot viewer.
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/fa440f80-6018-4ae7-b11a-95430d912c8a)
 
+Answer final questions:
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/60b045cf-b892-4d4f-bcda-b425e983e251)
 
+If any errors were made calibrating the axis, you have the option to re-calibrate.
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/cf25e596-0c83-40db-bbc0-44cf3eb7e46e)
 
