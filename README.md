@@ -30,7 +30,11 @@ Figure 5:
 
 ## Step 2: Extract data in R using the get_data_from_figures.R script
 
+Load R packages and run the following code to get started
+
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/66341682-3a03-4620-86c6-10692e2db43a)
+
+Follow along with the interactive prompts, either type responses into the console, or click in the plot panel as requested by the prompts.
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/45c052b8-1dd6-45b0-8e5d-e12fd05836f5)
 
