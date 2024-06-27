@@ -100,11 +100,15 @@ Figure 5:
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/6ab1a2dc-5c8f-4330-a140-1e4c8f9e29ad)
 
 
-![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/84066cc6-e502-44f0-89e2-03e6b9a813f6)
+### You will be asked to enter the high and low values from both axes and the calibrations will show up on the plot.
 
+### Next, you will be able to enter the group name and click on the data points included in each group. When you are done, click the red box to finish the group. 
+
+The data in your sheet will look different depending on how you group the data. One option is to click all the points in a single color grouping as shown in the screenshot below (clicked points are shown with red dots). This will give a mean value for time and a mean value for Absorbance at 600nm.
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/96145464-8069-4a45-a396-71a1288dbb61)
 
+If you prefer to capture the time dynamics of this figure, you will need to click on each time point individually, shown below in the green points.
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/c05e4dba-0315-4800-9ef0-69a17f228355)
 
