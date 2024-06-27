@@ -66,21 +66,28 @@ Enter the name of the first group, in this case it's EB2_Mackinac
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/d179a75f-442f-414a-bec3-19837a832326)
 
-If sample size is known, you'll be asked to enter it here:
+If sample size is known, you'll be asked to enter it here.
+Next you'll be prompted to click on the maximum, upper quartile, median, lower quartile, and minimum values in order. 
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/5c85c0f2-25ed-4093-b652-ae30fbea68f7)
 
+This will show up on the figure after it is complete
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/aad0970d-df13-4d75-b076-1cafdda7e212)
 
+Then you will have the option to edit, delete group, or finish the plot. 
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/e6a810c3-a3f8-4813-8494-0961cdcd688b)
 
+When all groups are finished, the plot will look like this:
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/568bd725-d374-4df5-a83d-e1b9950b22b7)
 
+Now you can finish the plot
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/42f0c9d3-f4a4-4ef2-b2df-026db345a269)
+
+The console will ask if you would like to continue. As you go, data will be saved to the "data" object in R (or whatever object you specify in the R script).
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/3644fb30-a55f-495d-b27f-d6c1d1876a55)
 
