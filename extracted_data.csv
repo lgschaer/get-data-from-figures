@@ -1,0 +1,8 @@
+"","filename","variable","group_id","mean","sd","n","r","se","error_type","plot_type","Article"
+"1","Slide2.png","Richness","EB2_Mackinac",109.173051795327,37.2802417559835,12,NA,10.7618788066357,"sd","boxplot","Schaerer-et-al_Figure1A"
+"2","Slide2.png","Richness","LS1_Calumet",111.857873862489,25.1327421558073,12,NA,7.2551977245644,"sd","boxplot","Schaerer-et-al_Figure1A"
+"3","Slide2.png","Richness","LS2_Calumet",105.993308923504,12.518819172443,12,NA,3.6138718095731,"sd","boxplot","Schaerer-et-al_Figure1A"
+"4","Slide3.png","Time (h)","EB9.Mackinac",45.4436933590849,35.7742167421606,20,0.93882728226106,7.99935804772821,"sd","scatterplot","Schaerer-et-al_Figure5"
+"5","Slide3.png","Absorbance (600nm)","EB9.Mackinac",0.479550499445061,0.303678232267048,20,0.93882728226106,0.0679045170636089,"sd","scatterplot","Schaerer-et-al_Figure5"
+"6","Slide3.png","Time (h)","LS1.Calumet_100hours",95.8676645372159,0.349202726124171,4,-0.871748717799413,0.174601363062085,"sd","scatterplot","Schaerer-et-al_Figure5"
+"7","Slide3.png","Absorbance (600nm)","LS1.Calumet_100hours",0.287084048027444,0.0662812257762839,4,-0.871748717799413,0.033140612888142,"sd","scatterplot","Schaerer-et-al_Figure5"
