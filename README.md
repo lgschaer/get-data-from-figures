@@ -34,11 +34,13 @@ Load R packages and run the following code to get started
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/66341682-3a03-4620-86c6-10692e2db43a)
 
-Follow along with the interactive prompts, either type responses into the console, or click in the plot panel as requested by the prompts.
+Follow along with the interactive prompts and enter responses. In this case, we want to process new images (enter 1), process different types of plots (enter d), and the plot is a boxplot (b).
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/45c052b8-1dd6-45b0-8e5d-e12fd05836f5)
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/11df3c29-0762-430a-9aca-6758bbedb907)
+
+The figure will show up in the plot panel and you will be asked to click on the y-axis 
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/3151a3bf-5880-4d46-a368-658cd7d90382)
 
