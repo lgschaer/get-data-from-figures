@@ -1,4 +1,4 @@
-# get-data-from-figures
+# Get raw data from figures
 
 ## Workflow for using the R package metaDigitise to scrape raw data from figures
 
@@ -96,12 +96,16 @@ Figure 5:
 
 ## Step 3: Edit data in R, and save as a csv
 
+Data will be saved in "data" object in R. 
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/6ed94c50-f484-4f53-be71-4a7a9180f56d)
 
 
+Add column to data frame with author name and figure number.
+
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/13666ca1-98cb-4d5a-8ec3-4ccc1f42a197)
 
+Save csv with data
 
 ![image](https://github.com/lgschaer/get-data-from-figures/assets/47119257/b169cf4e-336a-47db-9f53-7a77f3991161)
 
